@@ -1,7 +1,6 @@
 
 # Ex.No:6 Design an android application Send SMS using Intent.
 
-
 ## AIM:
 
 To create and design an android application Send SMS using Intent using Android Studio.
